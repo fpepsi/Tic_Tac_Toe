@@ -4,15 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c7ee3a5b-88eb-4361-a0ad-74ababadde81" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Tic_Tac_Toe.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-    </list>
+    <list default="true" id="c7ee3a5b-88eb-4361-a0ad-74ababadde81" name="Changes" comment="Tic-Tac-Toe game on command line" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,7 +27,8 @@
     "Python.main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "/Users/fabiobethlem/Documents/Work/Courses/Udemy_100_Days_Python/capstone_projects/Tic_Tac_Toe"
+    "last_opened_file_path": "/Users/fabiobethlem/Documents/Work/Courses/Udemy_100_Days_Python/capstone_projects/Tic_Tac_Toe",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
   <component name="SharedIndexes">
@@ -54,6 +47,38 @@
       <option name="presentableId" value="Default" />
       <updated>1729616047532</updated>
     </task>
+    <task id="LOCAL-00001" summary="Tic-Tac-Toe game on command line">
+      <option name="closed" value="true" />
+      <created>1729699560021</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1729699560021</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Tic-Tac-Toe game on command line">
+      <option name="closed" value="true" />
+      <created>1729699897256</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1729699897256</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Tic-Tac-Toe game on command line" />
+    <option name="LAST_COMMIT_MESSAGE" value="Tic-Tac-Toe game on command line" />
   </component>
 </project>
